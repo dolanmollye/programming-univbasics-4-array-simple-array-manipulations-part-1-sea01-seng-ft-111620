@@ -7,5 +7,5 @@ array.unshift(string)
 end
 
 def using_pop(array)
-  array.pop[6]
+  array.pop
 end
